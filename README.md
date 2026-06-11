@@ -1,13 +1,8 @@
-# RunGuard Public Site
+# RunGuard Website Redirect
 
-This repository contains only the compiled public marketing site for RunGuard for GitHub.
+This legacy Elevara-hosted Pages repository now redirects to the dedicated RunGuard website:
 
-Private product source, business planning, GitHub App code, and internal docs live in the private `elevara-apps/runguard-for-github` repository.
+https://runguard-dev.github.io/
 
-Primary public install surface:
+The active public static site repo is `runguard-dev/runguard-dev.github.io`.
 
-https://github.com/marketplace/actions/runguard-actions-report
-
-Public site:
-
-https://elevara-apps.github.io/runguard/
